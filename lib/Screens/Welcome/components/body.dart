@@ -11,7 +11,7 @@ class Body extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Text(
+          const Text(
             "WELCOME TO EDU",
             style: TextStyle(fontWeight: FontWeight.bold),
           ),
